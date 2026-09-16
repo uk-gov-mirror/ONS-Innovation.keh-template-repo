@@ -3,11 +3,6 @@
 
 <!-- Provide an overview of the changes in this pull request -->
 
-## Related Issues
-
-<!-- List any related issues or pull requests here -->
-<!-- This can include issues from Jira but make sure *not* to link them -->
-
 ## Testing
 
 <!-- Describe how to test the changes in this pull request -->
@@ -21,7 +16,6 @@
 - [ ] I have tested the changes locally
 - [ ] I have updated/created any relevant documentation
 - [ ] I have updated/created any relevant tests
-- [ ] All CI checks have passed
 - [ ] I have used a development Concourse pipeline to test the changes within a development environment
 - [ ] I have added any necessary labels to this pull request
 - [ ] I have assigned myself to this pull request
