@@ -3,10 +3,10 @@ name: Documentation CI
 on:
   push:
     branches: [main]
-    paths: [**/*.md]
+    paths: ["**/*.md"]
   pull_request:
     branches: [main]
-    paths: [**/*.md]
+    paths: ["**/*.md"]
 permissions:
   contents: read
 jobs:
